@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    background-color: orange;
+}
+
+
+#maincontainer {
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 1000px; /* Need a specific value to work */
+    height: 2000px;
+    background-color: lavender;
+    /* border: solid 17px darkgray; */
+}
